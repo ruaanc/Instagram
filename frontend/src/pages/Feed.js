@@ -1,18 +1,9 @@
 import React, { Component } from 'react';
-import api from '../services/api';
 
 import './Feed.css';
 
 class Feed extends Component {
-   state = {
-       feed: [],
-   };
    
-    async componentDidMount() {
-        const response = await api.get('posts');
-        
-        this.setState({ feed: response.data });
-    }
 
     render() {
         return (

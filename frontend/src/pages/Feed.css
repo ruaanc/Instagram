@@ -13,7 +13,6 @@ section#post-list article {
 
 section#post-list article header {
     padding: 20px;
-
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -26,6 +25,7 @@ section#post-list article header .user-info {
 
 section#post-list article header .user-info span {
     font-size: 13px;
+    cursor: pointer;
 }
 
 section#post-list article header .user-info  span.place {
@@ -49,6 +49,7 @@ section#post-list article footer {
 section#post-list article footer .actions img {
     height: 20px;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 section#post-list article footer p {
