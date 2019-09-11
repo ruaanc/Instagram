@@ -16,7 +16,7 @@ class Feed extends Component {
                                         </div>
                                         <img src="https://img.icons8.com/ios-glyphs/30/000000/more.png" alt=""></img>  
                                     </header>
-                                    <img src="https://scontent-bru2-1.cdninstagram.com/vp/44e110bc433fefad610dcfe4e471481b/5D783633/t51.2885-15/sh0.08/e35/p750x750/47037776_260880274588795_1163094274943854804_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&ig_cache_key=MTkzMzQ3NTE5NTgwNTc2MDg5OA%3D%3D.2" alt=""></img>
+                                    <img src="http://www.cecon.pb.gov.br/media/filer_public_thumbnails/filer_public/39/81/3981b15e-536b-4024-bca7-d1ce972a28f7/img_5027.jpg__1680x1050_q85_crop_subsampling-2_upscale.jpg" alt=""></img>
                                     <footer>
                                             <div className="actions">
                                                 <img src="https://img.icons8.com/material-outlined/24/000000/filled-like.png" alt=""></img>
